@@ -1,7 +1,7 @@
 {
-  "ads":"true",
+  "ads":"false",
   "update":[{
-    "version":"",
+    "version":"0.1",
     "title":"Note",
     "description":"If you have installed any other vpn app kindly uninstall it otherwise you won't be able to connect to our VPN",
     "size":""
